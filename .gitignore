@@ -13,3 +13,9 @@ docs/source/_*
 /*.egg-info/
 
 dist/
+
+#python virtual enronment files
+.env
+.env/*
+.venv
+.venv/*
