@@ -5,6 +5,7 @@
 - clone the forked project
 - create a virtual environment directory with command `$ python -m venv .venv`
 - activate the newly made virtual environment with `$ ./.venv/Scripts/activate` in windows and `$ source ./.venv/bin/activate` on linux or mac
+- You can simply do all the installs once with command `$ pip install -r requirements.txt` OR you can install these mannually
 - pip install the nepali_date in editable mode. On the root directory of project do `$ pip install -e .`
 - install `pytest` for running tests. ```$ pip install pytest```
 - install `flake8` for code formatting check. ```$ pip install flake8```
